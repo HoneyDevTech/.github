@@ -1,4 +1,4 @@
-# HoneyDevTech
+# ![HoneyDevTech Logo](https://www.honeydevtech.com/_next/image?url=%2Fimages%2Flogo.png&w=64&q=75) HoneyDevTech
 
 Welcome to HoneyDevTech! We are a team of dedicated developers offering a wide range of services to help bring your ideas to life. Our expertise spans across web development, blockchain development, custom bot development, and game development using Unity and Unreal Engine.
 
